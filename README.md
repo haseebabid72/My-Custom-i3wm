@@ -1,4 +1,4 @@
-# Arch rice using i3
+# Fedora rice using i3
 
 Hello, this is my first rice of Fedora using i3 wm. It's pretty basic as I have no knowledge of these things but it is close to perfect for me.
 
