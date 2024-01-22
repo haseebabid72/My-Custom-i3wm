@@ -9,19 +9,19 @@ Hello, this is my first rice of Fedora using i3 wm. It's pretty basic as I have 
 ![image](assets/AnaDe.png)
 
 ## Gnome Terminal
-![image](assets/Terminals)
+![image](assets/Terminals.png)
 
 ## Thunar
-![image](assets/Thunar)
+![image](assets/Thunar.png)
 
 ## Rofi
-![image](assets/Rofi1)
-![image](assets/Rofi2)
-![image](assets/Rofi3)
-![image](assets/Rofi4)
+![image](assets/Rofi1.png)
+![image](assets/Rofi2.png)
+![image](assets/Rofi3.png)
+![image](assets/Rofi4.png)
 
 ## Ranger
-![image](assets/Ranger)
+![image](assets/Ranger.png)
 
 ## What I've done
 
