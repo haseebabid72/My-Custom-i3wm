@@ -27,7 +27,8 @@ Hello, this is my first rice of Fedora using i3 wm. It's pretty basic as I have 
 
 In these configuration files you will find:
  i3 config.
- My Random Wallpaper Generator and color generator using pywal.
+ My Random Wallpaper Generator.
+ Color generator using pywal.
  My Random Lock-screen Wallpaper Generator and Lock-screen launcher.
  Polybar Config with the Background Color from the Wallpaper.
  My Picom Config.
