@@ -8,11 +8,22 @@ Hello, this is my first rice of Fedora using i3 wm. It's pretty basic as I have 
 ![image](assets/RandomDesktop.png)
 ![image](assets/AnaDe.png)
 
+
+
 ## Gnome Terminal
 ![image](assets/Terminals.png)
 
+## Alacritty
+![image](assets/Alacritty.png)
+
 ## Thunar
 ![image](assets/Thunar.png)
+
+## Ranger
+![image](assets/Ranger.png)
+
+## Spotify
+![image](assets/Spotify.png)
 
 ## Rofi
 ![image](assets/Rofi1.png)
@@ -20,8 +31,8 @@ Hello, this is my first rice of Fedora using i3 wm. It's pretty basic as I have 
 ![image](assets/Rofi3.png)
 ![image](assets/Rofi4.png)
 
-## Ranger
-![image](assets/Ranger.png)
+## Dunst
+![image](assets/Dunst.png)
 
 ## What I've done
 
@@ -37,8 +48,8 @@ Hello, this is my first rice of Fedora using i3 wm. It's pretty basic as I have 
 
 ## What I am Working On
 Anything I could think of:
- 1. Might configure Dunst a bit more.
- 2. Spotify Themes would be nice.
+
+ Your Recommendations will be appreciated
  
 
 For me this rice is perfect as it changes the whole theme of polybar and color scheme using pywal. The only thing I would try is to theme the apps.
